@@ -1,0 +1,51 @@
+*{
+    /*background-color: aqua;*/
+    text-align: center;
+}
+h1,h2{
+    color:yellow;
+}
+.header{
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    color: red;
+border: solid;
+}
+.genesis{
+    background-color: darkred;
+    display:flex;
+    justify-content: space-between;
+}
+.up{
+    color: indigo;
+    border:solid;
+}
+.creation{
+    background-color:red;
+    display:flex;
+    justify-content: space-between;
+}
+.about{
+    color:white;
+    size: 13pt;
+}
+.mission{
+    background-color:yellow;
+    display:flex;
+  flex-direction:column;
+}
+.info{
+    background-color:pink;
+    color:darkgreen;
+}
+.menu{
+    color:indigo;
+    border:solid;
+}
+h3{
+    color:black;
+    border:solid;
+}
